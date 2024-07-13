@@ -3,7 +3,6 @@ html {
   width: 105%;
   overflow: auto;
 }
-/* 500 percent only for testing on mobile this is pc version */
 .b {
   background-color: white;
   font-family: "Kanit", sans-serif;
@@ -53,7 +52,6 @@ html {
 .padright {
   padding-left: 30%;
 }
-/* Add this rule to your CSS */
 * {
   box-sizing: border-box; 
 }
